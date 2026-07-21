@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Full Stack em formação, com foco em Node.js no back-end e tecnologias modernas no front-end. Atualmente cursando Ciência da Computação, sempre em busca de aprimorar minhas habilidades e criar soluções eficientes que unam tecnologia e impacto real.</p>
+<p align="left">Desenvolvedor Full Stack em formação, com foco em back-end e tecnologias modernas no front-end. Atualmente cursando Ciência da Computação, sempre em busca de aprimorar minhas habilidades e criar soluções eficientes que unam tecnologia e impacto real.</p>
 
 ###
 
